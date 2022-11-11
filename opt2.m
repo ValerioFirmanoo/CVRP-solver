@@ -8,7 +8,7 @@ ncycles=0; %numero di iterazioni che fa il 2-opt per ogni cluster
 
 %ciclo while che ci permette di salvare nella matrice perm_matrix tutte le
 %possibili permutazioni dei punti nel percorso T (senza considerare il
-%deposito che sarà sempre punto di partenza e arrivo)
+%deposito che sarà sempre punto di partenza e arrivo).
 
 while(abs(min_old-minimum)>=tolerance)
     T_1=T_1(2:end-1);
