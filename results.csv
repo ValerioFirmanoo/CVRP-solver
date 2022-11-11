@@ -1,0 +1,7 @@
+Setting,Fisher Jaikumar,,,Bramel Simchi-Levi,,,
+,Time,Cost,Err_percento,Time,Cost,Err_percento,Best Value
+E-n51-k5,1.4,558,7%,17,544,4%,521
+E-n76-k10,2,885,7%,-,-,-,830
+E-n101-k8,2.4,902,10%,-,-,-,817
+B-n41-k6,1.58,838,1%,240.4,846,2%,829
+P-n76-k5,1.6,699,11%,82.9,698,11%,627
